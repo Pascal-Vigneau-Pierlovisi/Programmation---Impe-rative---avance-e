@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice___Struct",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice___Struct::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice___Struct-Debug-1521ba851c614e9ac69d.json",
+					"name" : "Exercice___Struct",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pascalvigneau/Desktop/L3/Programmation - Imp\u00e9rative - avanc\u00e9e/C/Exercice - Struct/cmake-build-debug",
+		"source" : "/Users/pascalvigneau/Desktop/L3/Programmation - Imp\u00e9rative - avanc\u00e9e/C/Exercice - Struct"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

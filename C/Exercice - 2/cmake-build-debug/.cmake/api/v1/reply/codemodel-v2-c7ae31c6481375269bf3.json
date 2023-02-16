@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exercice___2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exercice___2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exercice___2-Debug-f1b093fcd3a61a2ae8ff.json",
+					"name" : "Exercice___2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/pascalvigneau/Desktop/L3/Programmation - Imp\u00e9rative - avanc\u00e9e/C/Exercice - 2/cmake-build-debug",
+		"source" : "/Users/pascalvigneau/Desktop/L3/Programmation - Imp\u00e9rative - avanc\u00e9e/C/Exercice - 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
